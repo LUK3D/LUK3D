@@ -1,3 +1,7 @@
+<script>
+alert("Ola mundo!")
+</script>
+
 <h1 align="center">Hi 👋, I'm Filipe Lukebana</h1>
 <h3 align="center">A developer passionate about programming</h3>
 
