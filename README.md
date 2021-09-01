@@ -20,10 +20,10 @@
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=luk3d&label=Profile%20views&color=0e75b6&style=flat" alt="luk3d" /> </p>
 
 
-<div>
+<div style="display:flex;">
   <a href="https://github.com/LUK3D">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LUK3D&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUK3D&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img style="margin:2px;" height="180em" src="https://github-readme-stats.vercel.app/api?username=LUK3D&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUK3D&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
   
