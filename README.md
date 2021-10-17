@@ -8,11 +8,9 @@
 
 - 🔭 I’m currently working on a interactive website constructor [IC-InteractiveConstructor](https://github.com/LUK3D-Angola/IC-InteractiveConstructor)
 
-- 🌱 I’m currently learning **ASP.NET**
-
 - 👯 I’m looking to collaborate on [{NOS} programming language](https://github.com/LUK3D-Angola/NOS)
 
-- 👨‍💻 All of my projects are available at [https://www.luk3d.com](https://www.luk3d.com)
+- 👨‍💻 All of my projects are available here on my GH account.
 
 - 💬 Ask me about **javascript, vuejs, {NOS} and any general programming question.**
 
