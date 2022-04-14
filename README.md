@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on a interactive website constructor [IC-InteractiveConstructor](https://github.com/LUK3D-Angola/IC-InteractiveConstructor)
 
-- 👯 I’m looking to collaborate on [{NOS} programming language](https://github.com/LUK3D-Angola/NOS)
+- 👯 I’m looking to collaborate on Opensource projects
 
 - 👨‍💻 All of my projects are available here on my GH account.
 
-- 💬 Ask me about **javascript, vuejs, {NOS} and any general programming question.**
+- 💬 Ask me about **javascript, vuejs and any general programming question.**
 
 - 📫 How to reach me **filipelukebana@luk3d.com**
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=luk3d&label=Profile%20views&color=0e75b6&style=flat" alt="luk3d" /> </p>
