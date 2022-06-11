@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on a interactive website constructor [IC-InteractiveConstructor](https://github.com/LUK3D-Angola/IC-InteractiveConstructor)
+- 🔭 I’m currently working on a interactive website constructor [Flutjs](https://github.com/LUK3D/flutjs)
 
 - 👯 I’m looking to collaborate on Opensource projects
 
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **javascript, vuejs and any general programming question.**
 
-- 📫 How to reach me **filipelukebana@luk3d.com**
+- 📫 How to reach me **filipelukebana@gmail.com**
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=luk3d&label=Profile%20views&color=0e75b6&style=flat" alt="luk3d" /> </p>
 
 
