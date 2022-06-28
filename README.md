@@ -17,6 +17,8 @@
 - 📫 How to reach me **filipelukebana@gmail.com**
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=luk3d&label=Profile%20views&color=0e75b6&style=flat" alt="luk3d" /> </p>
 
+- 🌐 Checkout my [Youtube Channel](https://www.youtube.com/channel/UC1sF5ka1v4wmyNWxjqwXMRQ)
+
 
 <div style="display:flex;">
   <a href="https://github.com/LUK3D">
