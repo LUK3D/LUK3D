@@ -36,6 +36,6 @@
 
 
 ### WORKING ON
-- 🔭 [InMotion](https://github.com/LUK3D/inmotion) Web based css animation editor
+- 🔭 [InMotion](https://github.com/LUK3D/CssInMotion) Web based css animation editor
 
 
