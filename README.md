@@ -40,7 +40,7 @@
 ### PRODUCTS
 - 🔥 [Luk3D cloud](https://luk3dcloud.com/) Free Webservices For Everyone
 - 🚀 [InMotion](https://github.com/LUK3D/CssInMotion) Web based css animation editor
-- ✨ [lukyUi-react: My cool UI components as a Frontend Dev 😁 ] (https://lukyui.vercel.app/)
+- ✨ [lukyUi-react](https://lukyui.vercel.app/) My own cool UI component gallery as a Frontend Dev
 
 ### WORKING ON
 - Elegant - What about making websites with gestures? 😌
