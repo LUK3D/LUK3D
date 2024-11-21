@@ -44,6 +44,5 @@
 - ✨ [lukyUi-react](https://lukyui.vercel.app/) My own cool UI component gallery as a Frontend Dev
 
 ### WORKING ON
-- Elegant - What about making websites with gestures? 😌
-- ✨ [lukyUi-react] (https://github.com/LUK3D/lukyUi)
+- ✨ [CooG] [Collective Cog](https://github.com/LUK3D/collectivecog) The only AI you will ever need
 
