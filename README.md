@@ -44,5 +44,5 @@
 - ✨ [lukyUi-react](https://lukyui.vercel.app/) My own cool UI component gallery as a Frontend Dev
 
 ### WORKING ON
-- ✨ [CooG] [Collective Cog](https://github.com/LUK3D/collectivecog) The only AI you will ever need
+- ✨ [Blender next] [Blender Next](https://github.com/LUK3D/blender_next) Make Blender 3D 10x better.
 
